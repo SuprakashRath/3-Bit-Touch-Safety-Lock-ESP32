@@ -1,0 +1,1 @@
+# 3-Bit-Touch-Based-Safety-Lock-using-ESP32.
