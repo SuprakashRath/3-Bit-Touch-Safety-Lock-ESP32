@@ -124,7 +124,7 @@ After a value is submitted:
 ### 1. Clone the repository
 
 ```
-[https://github.com/SuprakashRath/3-Bit-Touch-Based-Safety-Lock-using-ESP32..git]
+https://github.com/SuprakashRath/3-Bit-Touch-Safety-Lock-ESP32.git
 ```
 
 ### 2. Install ESP32 board support
